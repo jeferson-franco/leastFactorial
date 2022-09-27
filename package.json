@@ -1,0 +1,20 @@
+{
+  "name": "leastfactorial",
+  "version": "1.0.0",
+  "description": "Given an integer `n`, find the minimal `k` such that",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/leastFactorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/leastFactorial/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/leastFactorial#readme"
+}
